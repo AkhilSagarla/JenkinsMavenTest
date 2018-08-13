@@ -1,13 +1,11 @@
 package com.cg.jenkins.JenkinsMavenTest;
 
-/**
- * Hello world!
- *
- */
+import java.util.logging.Logger;
+
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Bye Bye" );
+    	System.out.println("Bye");
     }
 }
